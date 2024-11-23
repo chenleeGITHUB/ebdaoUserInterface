@@ -49,7 +49,7 @@ const App = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome to My Animated App!</Text>
+      <Text style={styles.title}>Chenlee Ebdao Reanimated App</Text>
 
       {/* Enhanced Button */}
       <EnhancedButton title="Click Me" onPress={() => console.log('Button Pressed')} />
